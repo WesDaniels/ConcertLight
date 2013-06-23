@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ConcertLight.Service1" CodeBehind="Color.svc.cs" %>
